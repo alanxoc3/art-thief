@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 48241f5e351795343898a37b022bd877
-timeCreated: 1488154535
+timeCreated: 1488741702
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -31,6 +31,11 @@ TextureImporter:
     21300048: girl_33
     21300050: girl_34
     21300052: girl_35
+    21300054: girl_7
+    21300056: girl_8
+    21300058: girl_9
+    21300060: girl_10
+    21300062: girl_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
